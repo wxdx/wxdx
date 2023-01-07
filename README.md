@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 Frontend developer
+- 🔭 Full Stack Developer
 - 📫 Email me? `lle@live.com`.
 
